@@ -38,6 +38,21 @@ Edit `company-data.json` to update:
 - Contact information
 - Social media links
 
+## Deployment
+
+### Deploy to Vercel
+
+1. Push your code to GitHub
+2. Import your repository in Vercel
+3. Vercel will automatically detect the Vite framework
+4. The project is configured with `vercel.json` for optimal deployment
+
+Or use Vercel CLI:
+```bash
+npm i -g vercel
+vercel
+```
+
 ## Tech Stack
 
 - React 18
