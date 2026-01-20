@@ -1,0 +1,56 @@
+{
+  "name": "RNBridge Limited",
+  "logo": "",
+  "tagline": "Innovating Tomorrow's Technology Today",
+  "description": "We are a leading software development company specializing in cutting-edge solutions for businesses of all sizes. Our team of expert developers and designers work together to create innovative software that drives success.",
+  "yearFounded": 2015,
+  "employees": "5-10",
+  "location": "London, UK",
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "Custom web applications built with modern frameworks",
+      "icon": "🌐",
+      "details": "We create responsive, high-performance web applications using React, Vue.js, Angular, and Next.js. Our solutions include e-commerce platforms, content management systems, and enterprise web portals.",
+      "features": ["Responsive Design", "SEO Optimization", "Progressive Web Apps", "API Integration"],
+      "technologies": ["React", "Vue.js", "Node.js", "TypeScript"],
+      "pricing": "Custom Pricing"
+    },
+    {
+      "title": "Mobile Apps",
+      "description": "Native and cross-platform mobile applications",
+      "icon": "📱",
+      "details": "We develop native iOS and Android apps as well as cross-platform solutions using React Native and Flutter. Our mobile apps are optimized for performance and user experience.",
+      "features": ["iOS & Android", "Cross-platform Development", "App Store Optimization", "Push Notifications"],
+      "technologies": ["React Native", "Flutter", "Swift", "Kotlin"],
+      "pricing": "Custom Pricing"
+    },
+    {
+      "title": "Cloud Solutions",
+      "description": "Scalable cloud infrastructure and deployment",
+      "icon": "☁️",
+      "details": "We help businesses migrate to the cloud and build scalable infrastructure using AWS, Azure, and Google Cloud. Our solutions ensure high availability, security, and cost optimization.",
+      "features": ["Cloud Migration", "DevOps & CI/CD", "Auto-scaling", "24/7 Monitoring"],
+      "technologies": ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes"],
+      "pricing": "Custom Pricing"
+    },
+    {
+      "title": "AI & ML",
+      "description": "Artificial intelligence and machine learning solutions",
+      "icon": "🤖",
+      "details": "We implement AI and machine learning solutions to automate processes, analyze data, and create intelligent systems. From chatbots to predictive analytics, we bring AI to your business.",
+      "features": ["Custom ML Models", "Natural Language Processing", "Computer Vision", "Predictive Analytics"],
+      "technologies": ["Python", "TensorFlow", "PyTorch", "OpenAI API"],
+      "pricing": "Custom Pricing"
+    }
+  ],
+  "contact": {
+    "email": "contact@rnbridge.co.uk",
+    "phone": "Send us an email",
+    "address": "G01, Suite: 105 Cambridge Heath Road, London, England, E1 5QH"
+  },
+  "social": {
+    
+  }
+}
+
