@@ -8,6 +8,8 @@ function App() {
   useEffect(() => {
     // Load data from JSON file
     setData(companyData)
+    // Update document title
+    document.title = companyData.name || 'VOLTPAY DIGITAL LTD'
   }, [])
 
   if (!data) {
@@ -19,7 +21,9 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="container">
-          <img src={data.logo} alt={data.name} className="logo" />
+          {data.logo && data.logo.trim() !== '' && (
+            <img src={data.logo} alt={data.name} className="logo" />
+          )}
           <h1 className="company-name">{data.name}</h1>
           <p className="tagline">{data.tagline}</p>
         </div>
