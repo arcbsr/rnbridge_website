@@ -1,5 +1,5 @@
 {
-  "name": "RNBridge Limited",
+  "name": "VOLTPAY DIGITAL LTD",
   "logo": "",
   "tagline": "Innovating Tomorrow's Technology Today",
   "description": "We are a leading software development company specializing in cutting-edge solutions for businesses of all sizes. Our team of expert developers and designers work together to create innovative software that drives success.",
@@ -45,12 +45,15 @@
     }
   ],
   "contact": {
-    "email": "contact@rnbridge.co.uk",
-    "phone": "Send us an email",
-    "address": "G01, Suite: 105 Cambridge Heath Road, London, England, E1 5QH"
+    "email": "voltpaydigital@gmail.com",
+    "phone": "07404094352",
+    "address": "Office 8977 321-323 High Road, Chadwell Heath, Essex, United Kingdom, RM6 6AX"
   },
   "social": {
-    
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "facebook": "https://www.facebook.com/share/1GGjKqPYk6/"
   }
 }
 
