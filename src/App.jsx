@@ -19,7 +19,7 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="container">
-          <img src={data.logo} alt={data.name} className="logo" />
+          {data.logo && <img src={data.logo} alt={data.name} className="logo" />}
           <h1 className="company-name">{data.name}</h1>
           <p className="tagline">{data.tagline}</p>
         </div>
